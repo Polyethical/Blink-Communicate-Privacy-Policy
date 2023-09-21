@@ -1,2 +1,2 @@
-# Blink-Detect-Privacy-Policy
-Privacy policy for Blink Detect App
+# Blink-Communicate-Privacy-Policy
+Privacy policy for Blink Communicate App
